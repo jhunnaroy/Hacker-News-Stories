@@ -7,7 +7,7 @@ Frontend
 
 Live Frontend Demo
 
-📌 Features
+ Features
 🔹 Web Scraper
 Scrapes top 10 stories from Hacker News
 Extracts:
