@@ -2,7 +2,9 @@ MERN Hacker News Stories App
 
 A full-stack MERN application that scrapes the top stories from Hacker News, stores them in MongoDB, and allows users to bookmark stories after authentication.
 
-🚀 Live Demo
+🚀 Live Demo: https://frontend-1-oj2o.onrender.com
+
+
 Frontend
 
 Live Frontend Demo
